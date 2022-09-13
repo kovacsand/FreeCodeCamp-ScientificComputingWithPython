@@ -1,3 +1,6 @@
-# Arithmetic Formatter
+# Free Code Camp - Scientific Computing wiht Python
 
-This is my solution for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+Unfortunately, there are some problems with the repo, thus I cannot upload the whole file system as I wanted to.
+
+This is the course itself
+https://www.freecodecamp.org/learn/scientific-computing-with-python/
